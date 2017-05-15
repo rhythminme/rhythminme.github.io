@@ -1,0 +1,10 @@
+---
+name: "sketchnotes"
+arts:
+# Row 1
+- image: "images/galleries/sketchnotes/20170513_skethnote_basics.png"
+  order: "1"
+  artist: "Unknown"
+  title: "Sketchnote Basics"
+  description: "The initial sketchnote to help me set this site up"
+---

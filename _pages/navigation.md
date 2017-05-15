@@ -89,5 +89,5 @@ You can add a nested menu (up to two level only) by adding the following code to
     - subtitle: "Jekyll forums"
       subhref: "https://talk.jekyllrb.com/"
     - subtitle: "Source Code"
-      subhref: "https://github.com/chrisanthropic/starving-artist-jekyll-theme"
+      subhref: "https://github.com/rhythmin.me"
 ```

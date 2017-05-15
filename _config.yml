@@ -13,12 +13,11 @@ github:
 header: images/logo.png
 
 # Formspree contact Form
-contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
+contact_form: "https://formspree.io/raj@rhythmin.me"
 
 
 # Exclude our ruby stuff
 exclude: [.bundle, .vendor, .bin, starving-artist.gemspec, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, starving-artist-jekyll-theme-*.gem]
-
 
 # Build settings
 markdown: kramdown
@@ -35,8 +34,8 @@ feed:
   path: atom.xml
   
 # Compress our Css
-#sass:
-#    style: :compressed
+sass:
+  style: :compressed
 
 include: ['_pages']
 
@@ -53,7 +52,7 @@ google_universal_analytics_cookiedomain: auto
 # Facebook Opengraph
 facebook_user:
 facebook_app_id:                                #enter your App ID
-facebook_locale: en_US
+facebook_locale: en_GB
 facebook_page:                                  #the URL of your Facebook Page
 facebook_image: images/author.jpg                      #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
